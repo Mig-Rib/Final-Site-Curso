@@ -1,0 +1,29 @@
+*{
+    background-color: black;
+    color:white;
+    text-align: center;
+
+}
+.texto-destaque{
+    color:blue;
+    
+
+
+}
+.titulo-destaque{
+    border:1px solid white;
+    margin-left: 500px;
+    margin-right: 500px;
+    padding: 1px solid white;
+    
+}
+.urgente{
+    margin-left: 500px;
+    margin-right: 500px;
+    border: 1px;
+    background-color: red;
+}
+body{
+    height:100vh;
+    
+}
